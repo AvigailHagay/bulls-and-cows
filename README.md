@@ -1,9 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/YDg-_nm7)
-## Authors
-* Avigail Hagay:  avigilha@edu.hac.ac.il
-* Racheli Benchamo:  rachelbenha@edu.hac.ac.il
-
-The API documentation for this project can be found [here](./doc/index.html).
+# Bulls & Cows
+## Author
+* Avigail Hagay:  avigilhagay@gmail.com
 
 ## Explanations
 
@@ -64,7 +61,7 @@ The template includes:
 * a Java Web template with an empty Servlet to implement your server side REST API under the src/main/java folder
 * a React template under the reac-client folder, with an initialized npm project.
 
-## In order to run your exercise you:
+## In order to run this program you:
 * run the server side; with IntelliJ configuration at the upper right (created above)
 * run the client side: open the terminal: `cd react-client`, `npm install`,  run with the command `npm start`
 
